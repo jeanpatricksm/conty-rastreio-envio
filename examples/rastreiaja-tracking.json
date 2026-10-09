@@ -1,0 +1,11 @@
+{
+  "tracking_number": "QB123456789BR",
+  "carrier_slug": "correios",
+  "checkpoints": [
+    { "id": "ck_3", "checkpoint_time": "2026-05-06T09:05:00-03:00", "status_code": "OEC", "message": "Objeto saiu para entrega ao destinatário", "city": "Rio de Janeiro", "state": "RJ" },
+    { "id": "ck_1", "checkpoint_time": "2026-05-04T10:12:00-03:00", "status_code": "PO", "message": "Objeto postado", "city": "São Paulo", "state": "SP" },
+    { "id": "ck_4", "checkpoint_time": "2026-05-06T09:30:00-03:00", "status_code": "XPTO-99", "message": "Objeto em análise", "city": "Rio de Janeiro", "state": "RJ" },
+    { "id": "ck_2", "checkpoint_time": "2026-05-05T08:40:00-03:00", "status_code": "RO", "message": "Objeto em trânsito - por favor aguarde", "city": "Cajamar", "state": "SP" },
+    { "id": "ck_2", "checkpoint_time": "2026-05-05T08:40:00-03:00", "status_code": "RO", "message": "Objeto em trânsito - por favor aguarde", "city": "Cajamar", "state": "SP" }
+  ]
+}
