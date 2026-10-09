@@ -99,5 +99,4 @@ O formato do RastreiaJá só existe em [`src/aggregator/rastreiaja.ts`](src/aggr
 
 ## Uso de IA
 
-<!-- revise e ajuste com as suas palavras antes de enviar -->
-O código, os testes e este README foram escritos com o Claude (Claude Code). Eu revisei a tabela de status, a regra de status atual por histórico, a regra de atraso e a fronteira com o agregador, e rodei `npm test` e `npm run typecheck`.
+Usei IA (Claude Code) pra me ajudar a entender o problema, analisar as regras e implementar a solução. Revisei o código, as decisões descritas aqui e rodei os testes pra confirmar.
